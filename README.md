@@ -95,7 +95,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer)
+Original Project Link: [https://github.com/awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer)\
+This Fork Link: [https://github.com/MikaelKW/Optimize-WsusServer](https://github.com/MikaelKW/Optimize-WsusServer)
 
 <!-- REFERENCES -->
 ## References
