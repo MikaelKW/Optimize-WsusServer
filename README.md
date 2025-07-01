@@ -1,6 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/awarre/Optimize-WsusServer?style=flat-square) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/awarre/Optimize-WsusServer?include_prereleases&style=flat-square)
 # Optimize-WsusServer.PS1
 
+_This fork fixes the issue of "The instance of SQL Server you attempted to connect to does not support encryption.".\
+See [this issue](https://github.com/awarre/Optimize-WsusServer/issues/25) for a more detailed description._
+
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
